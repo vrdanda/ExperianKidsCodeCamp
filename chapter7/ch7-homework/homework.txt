@@ -1,0 +1,12 @@
+Write a few examples of algorithms we encounter in our daily lives:​
+    Recipes​
+    Sorting documents, music, movies, etc.​
+    Traffic Signals​
+    Elevators​
+    Bus Schedules​
+
+What are examples of efficient vs inefficient ways of implementing some of these algorithms.​
+
+For instance how would mail delivery (the traditional mail :) ) be impacted if the only means of transportation is by foot?​
+
+How many people would use the elevator if it stopped midway and went towards the most recent button pushed?

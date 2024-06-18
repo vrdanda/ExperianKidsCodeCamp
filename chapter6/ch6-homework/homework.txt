@@ -1,0 +1,2 @@
+1> Write a program to fetch top 10 news headlines using beautiful soup​
+2> Write a program to download 10 photos that match a given search term

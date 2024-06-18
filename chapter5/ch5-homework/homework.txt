@@ -1,0 +1,6 @@
+Current Weather App​
+Have you ever left the house without your umbrella, only to get covered in rain? In this app, you’ll see how Python can be used to pull weather data from an API based on a user’s current location. ​
+https://github.com/codewizardshq/python-projects-for-kids/blob/main/current-weather-app/main.py​
+
+Quizz Game​
+https://medium.com/@rahulmallah785671/creating-an-engaging-quiz-game-with-python-a-step-by-step-guide-ea11bd76f159

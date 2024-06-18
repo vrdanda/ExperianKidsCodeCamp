@@ -1,0 +1,19 @@
+{
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "hobbies": ["running", "sky diving"],
+    "age": 15,
+    "class": 10,
+    "subjects": [
+        {
+            "name": "Math",
+            "grade": "A",
+            "marks": 99.5
+        },
+        {
+            "name": "Language Arts",
+            "grade": "A",
+            "marks": 95.0
+        }
+    ]
+}
